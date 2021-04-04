@@ -19,7 +19,7 @@ and 4096.
 
 # Shell Parameters
 
-  isp <N> <mode>
+  isp \<N\> \<mode\>
 
 where <N> is the number of bytes to read/write in one system call and <mode> is the mode of the
 communication to use. If mode value is 1, then normal communication mode is used. If mode value is
